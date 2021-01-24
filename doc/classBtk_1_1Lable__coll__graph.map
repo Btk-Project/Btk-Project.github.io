@@ -1,0 +1,18 @@
+<map id="Btk::Lable" name="Btk::Lable">
+<area shape="rect" id="node2" href="$classBtk_1_1Widget.html" title="Btk::Widget" alt="" coords="347,584,437,611"/>
+<area shape="rect" id="node7" href="$classBtk_1_1Container.html" title="A Container of Widget. " alt="" coords="631,539,737,565"/>
+<area shape="rect" id="node3" href="$structBtk_1_1HasSlots.html" title="Btk::HasSlots" alt="" coords="141,533,245,560"/>
+<area shape="rect" id="node4" href="$structBtk_1_1Rect.html" title="a SDL_Rect with methods " alt="" coords="154,584,233,611"/>
+<area shape="rect" id="node6" href="$structBtk_1_1WidgetAttr.html" title="Btk::WidgetAttr" alt="" coords="137,635,249,661"/>
+<area shape="rect" id="node9" href="$structBtk_1_1WindowImpl.html" title="Btk::WindowImpl" alt="" coords="876,328,999,355"/>
+<area shape="rect" id="node8" href="$classBtk_1_1Function.html" title="Btk::Function\&lt; bool\l(Btk::Event &amp;)\&gt;" alt="" coords="324,457,460,498"/>
+<area shape="rect" id="node10" href="$structBtk_1_1Signal.html" title="Btk::Signal\&lt; void(std\l::string_view)\&gt;" alt="" coords="612,70,756,111"/>
+<area shape="rect" id="node11" href="$structBtk_1_1Color.html" title="Color structure. " alt="" coords="351,167,433,193"/>
+<area shape="rect" id="node18" href="$structBtk_1_1Theme.html" title="Btk::Theme" alt="" coords="639,136,729,163"/>
+<area shape="rect" id="node13" href="$structBtk_1_1Atomic.html" title="Btk::Atomic" alt="" coords="639,249,729,276"/>
+<area shape="rect" id="node14" href="$structBtk_1_1Signal.html" title="Btk::Signal\&lt; void()\&gt;" alt="" coords="615,300,753,327"/>
+<area shape="rect" id="node15" href="$structBtk_1_1Signal.html" title="Btk::Signal\&lt; bool()\&gt;" alt="" coords="615,351,753,377"/>
+<area shape="rect" id="node16" href="$structBtk_1_1Signal.html" title="Btk::Signal\&lt; void(int\l new_w, int new_h)\&gt;" alt="" coords="613,402,755,443"/>
+<area shape="rect" id="node17" href="$structBtk_1_1Signal.html" title="Btk::Signal\&lt; bool(Btk\l::Event &amp;)\&gt;" alt="" coords="611,467,757,509"/>
+<area shape="rect" id="node19" href="$classBtk_1_1Font.html" title="Font Class. " alt="" coords="354,11,430,37"/>
+</map>

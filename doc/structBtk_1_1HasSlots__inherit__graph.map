@@ -1,0 +1,19 @@
+<map id="Btk::HasSlots" name="Btk::HasSlots">
+<area shape="rect" id="node2" href="$classBtk_1_1Widget.html" title="Btk::Widget" alt="" coords="161,233,251,260"/>
+<area shape="rect" id="node18" href="$classBtk_1_1Window.html" title="A Basic Window. " alt="" coords="157,284,255,311"/>
+<area shape="rect" id="node3" href="$classBtk_1_1AbstructButton.html" title="Basic button. " alt="" coords="303,5,440,32"/>
+<area shape="rect" id="node5" href="$classBtk_1_1Canvas.html" title="Btk::Canvas" alt="" coords="324,56,419,83"/>
+<area shape="rect" id="node6" href="$classBtk_1_1DockWidget.html" title="Btk::DockWidget" alt="" coords="310,107,433,133"/>
+<area shape="rect" id="node7" href="$classBtk_1_1GroupBox.html" title="Btk::GroupBox" alt="" coords="317,157,425,184"/>
+<area shape="rect" id="node8" href="$classBtk_1_1ImageView.html" title="Btk::ImageView" alt="" coords="314,208,429,235"/>
+<area shape="rect" id="node9" href="$classBtk_1_1Lable.html" title="Lable widget. " alt="" coords="331,259,412,285"/>
+<area shape="rect" id="node10" href="$classBtk_1_1Layout.html" title="Btk::Layout" alt="" coords="327,309,416,336"/>
+<area shape="rect" id="node15" href="$classBtk_1_1Line.html" title="Btk::Line" alt="" coords="334,360,409,387"/>
+<area shape="rect" id="node16" href="$classBtk_1_1ScrollBar.html" title="Btk::ScrollBar" alt="" coords="320,411,423,437"/>
+<area shape="rect" id="node17" href="$classBtk_1_1TextBox.html" title="Btk::TextBox" alt="" coords="322,461,421,488"/>
+<area shape="rect" id="node4" href="$classBtk_1_1Button.html" title="A simple pushbutton. " alt="" coords="501,5,589,32"/>
+<area shape="rect" id="node11" href="$classBtk_1_1BoxLayout.html" title="Btk::BoxLayout" alt="" coords="489,284,601,311"/>
+<area shape="rect" id="node14" href="$classBtk_1_1GridLayout.html" title="Btk::GridLayout" alt="" coords="488,335,601,361"/>
+<area shape="rect" id="node12" href="$classBtk_1_1HBoxLayout.html" title="Btk::HBoxLayout" alt="" coords="649,259,772,285"/>
+<area shape="rect" id="node13" href="$classBtk_1_1VBoxLayout.html" title="Btk::VBoxLayout" alt="" coords="650,309,771,336"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structBtk_1_1Impl_1_1SlotBase.html" title="Btk::Impl::SlotBase" alt="" coords="5,46,141,73"/>
+<area shape="rect" id="node2" href="$structBtk_1_1Impl_1_1Slot.html" title="Btk::Impl::Slot\&lt; RetT,\l Args \&gt;" alt="" coords="189,5,340,47"/>
+<area shape="rect" id="node3" href="$structBtk_1_1Impl_1_1Slot.html" title="Btk::Impl::Slot\&lt; RetT,\l Args... \&gt;" alt="" coords="189,71,340,112"/>
+<area shape="rect" id="node4" href="$structBtk_1_1Impl_1_1ClassSlot.html" title="Btk::Impl::ClassSlot\l\&lt; Class, Method, RetT,\l Args \&gt;" alt="" coords="388,26,548,82"/>
+<area shape="rect" id="node5" href="$structBtk_1_1Impl_1_1SlotDetail.html" title="Btk::Impl::SlotDetail\l\&lt; T, RetT, Args \&gt;" alt="" coords="398,107,538,148"/>
+</map>

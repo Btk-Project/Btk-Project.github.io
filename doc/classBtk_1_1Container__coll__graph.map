@@ -1,0 +1,17 @@
+<map id="Btk::Container" name="Btk::Container">
+<area shape="rect" id="node2" href="$classBtk_1_1Widget.html" title="Btk::Widget" alt="" coords="716,105,807,132"/>
+<area shape="rect" id="node8" href="$structBtk_1_1WindowImpl.html" title="Btk::WindowImpl" alt="" coords="700,481,823,508"/>
+<area shape="rect" id="node3" href="$structBtk_1_1HasSlots.html" title="Btk::HasSlots" alt="" coords="449,5,553,32"/>
+<area shape="rect" id="node4" href="$structBtk_1_1Rect.html" title="a SDL_Rect with methods " alt="" coords="462,56,541,83"/>
+<area shape="rect" id="node6" href="$structBtk_1_1WidgetAttr.html" title="Btk::WidgetAttr" alt="" coords="445,107,557,133"/>
+<area shape="rect" id="node7" href="$classBtk_1_1Function.html" title="Btk::Function\&lt; bool\l(Btk::Event &amp;)\&gt;" alt="" coords="141,241,277,282"/>
+<area shape="rect" id="node9" href="$structBtk_1_1Signal.html" title="Btk::Signal\&lt; void(std\l::string_view)\&gt;" alt="" coords="429,390,573,431"/>
+<area shape="rect" id="node10" href="$structBtk_1_1Color.html" title="Color structure. " alt="" coords="169,485,250,512"/>
+<area shape="rect" id="node17" href="$structBtk_1_1Theme.html" title="Btk::Theme" alt="" coords="456,456,547,483"/>
+<area shape="rect" id="node12" href="$structBtk_1_1Atomic.html" title="Btk::Atomic" alt="" coords="456,569,547,596"/>
+<area shape="rect" id="node13" href="$structBtk_1_1Signal.html" title="Btk::Signal\&lt; void()\&gt;" alt="" coords="432,620,571,647"/>
+<area shape="rect" id="node14" href="$structBtk_1_1Signal.html" title="Btk::Signal\&lt; bool()\&gt;" alt="" coords="432,671,571,697"/>
+<area shape="rect" id="node15" href="$structBtk_1_1Signal.html" title="Btk::Signal\&lt; void(int\l new_w, int new_h)\&gt;" alt="" coords="430,722,573,763"/>
+<area shape="rect" id="node16" href="$structBtk_1_1Signal.html" title="Btk::Signal\&lt; bool(Btk\l::Event &amp;)\&gt;" alt="" coords="428,325,575,366"/>
+<area shape="rect" id="node18" href="$classBtk_1_1Font.html" title="Font Class. " alt="" coords="171,331,247,357"/>
+</map>

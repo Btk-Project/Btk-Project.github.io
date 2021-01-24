@@ -1,6 +1,6 @@
 # Welcome to BtkProject Homepage
 
-Btk is a gui tookit written in C++17  
+Btk is a Gui tookit written in C++17  
 
 ## Example
 
@@ -29,6 +29,10 @@ int main(){
 ```
 
 For more details see in [GitHub](https://github.com/BusyStudent/Btk)
+
+## Doc
+
+[ClickHere](./doc/index.html)  
 
 ## Support  
 

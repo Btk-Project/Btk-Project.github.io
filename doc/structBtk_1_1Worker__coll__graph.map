@@ -1,0 +1,6 @@
+<map id="Btk::Worker" name="Btk::Worker">
+<area shape="rect" id="node2" href="$structBtk_1_1ThreadPool.html" title="Btk::ThreadPool" alt="" coords="14,125,130,152"/>
+<area shape="rect" id="node3" href="$classBtk_1_1SpinLock.html" title="Btk::SpinLock" alt="" coords="5,5,109,32"/>
+<area shape="rect" id="node4" href="$structBtk_1_1Atomic.html" title="Btk::Atomic" alt="" coords="172,5,263,32"/>
+<area shape="rect" id="node5" href="$classBtk_1_1Thread.html" title="Btk::Thread" alt="" coords="327,125,417,152"/>
+</map>

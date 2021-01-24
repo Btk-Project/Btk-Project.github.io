@@ -1,0 +1,6 @@
+<map id="Btk::Impl::AsyncInvoker&lt; HasSignal, Callable, Args &gt;" name="Btk::Impl::AsyncInvoker&lt; HasSignal, Callable, Args &gt;">
+<area shape="rect" id="node2" href="$structBtk_1_1Impl_1_1AsyncBase.html" title="Btk::Impl::AsyncBase\l\&lt; HasSignal, Callable,\l Args... \&gt;" alt="" coords="667,85,820,141"/>
+<area shape="rect" id="node3" href="$structBtk_1_1Impl_1_1AsyncSignal.html" title="Btk::Impl::AsyncSignal\l\&lt; HasSignal, std::invoke\l_result_t\&lt; Callable, Args... \&gt; \&gt;" alt="" coords="411,5,613,61"/>
+<area shape="rect" id="node4" href="$structBtk_1_1Impl_1_1AsyncResultHolder.html" title="Btk::Impl::AsyncResultHolder\l\&lt; std::invoke_result_t\&lt; Callable,\l Args... \&gt; \&gt;" alt="" coords="407,85,617,141"/>
+<area shape="rect" id="node5" href="$unionBtk_1_1Impl_1_1AsyncResultHolder_1_1Data.html" title="Btk::Impl::AsyncResultHolder\l\&lt; RetT \&gt;::Data" alt="" coords="133,93,329,134"/>
+</map>

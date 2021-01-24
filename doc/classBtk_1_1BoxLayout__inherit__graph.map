@@ -1,0 +1,8 @@
+<map id="Btk::BoxLayout" name="Btk::BoxLayout">
+<area shape="rect" id="node6" href="$classBtk_1_1HBoxLayout.html" title="Btk::HBoxLayout" alt="" coords="5,304,128,331"/>
+<area shape="rect" id="node7" href="$classBtk_1_1VBoxLayout.html" title="Btk::VBoxLayout" alt="" coords="153,304,274,331"/>
+<area shape="rect" id="node2" href="$classBtk_1_1Layout.html" title="Btk::Layout" alt="" coords="95,155,185,181"/>
+<area shape="rect" id="node3" href="$classBtk_1_1Widget.html" title="Btk::Widget" alt="" coords="33,80,124,107"/>
+<area shape="rect" id="node4" href="$structBtk_1_1HasSlots.html" title="Btk::HasSlots" alt="" coords="27,5,131,32"/>
+<area shape="rect" id="node5" href="$classBtk_1_1Container.html" title="A Container of Widget. " alt="" coords="148,80,255,107"/>
+</map>

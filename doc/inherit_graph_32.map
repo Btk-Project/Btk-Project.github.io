@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structBtk_1_1Impl_1_1AsyncResultHolder.html" title="Btk::Impl::AsyncResultHolder\l\&lt; std::invoke_result_t\&lt; Callable,\l Args... \&gt; \&gt;" alt="" coords="5,85,216,141"/>
+<area shape="rect" id="node2" href="$structBtk_1_1Impl_1_1AsyncBase.html" title="Btk::Impl::AsyncBase\l\&lt; HasSignal, Callable,\l Args... \&gt;" alt="" coords="267,5,420,61"/>
+<area shape="rect" id="node4" href="$structBtk_1_1Impl_1_1AsyncBase.html" title="The async base,It store the return value and the signal. " alt="" coords="267,85,420,141"/>
+<area shape="rect" id="node3" href="$structBtk_1_1Impl_1_1AsyncInvoker.html" title="The AsyncInvoker. " alt="" coords="471,5,633,61"/>
+<area shape="rect" id="node5" href="$structBtk_1_1Impl_1_1AsyncSignal.html" title="Btk::Impl::AsyncSignal\l\&lt; HasSignal, std::invoke\l_result_t\&lt; Callable, Args... \&gt; \&gt;" alt="" coords="9,5,212,61"/>
+<area shape="rect" id="node7" href="$structBtk_1_1Impl_1_1Invoker.html" title="Btk::Impl::Invoker\l\&lt; Callable, Args \&gt;" alt="" coords="279,166,407,207"/>
+<area shape="rect" id="node8" href="$structBtk_1_1Impl_1_1TimerInvoker.html" title="Btk::Impl::TimerInvoker\l\&lt; Callable, Args \&gt;" alt="" coords="264,231,423,273"/>
+</map>
